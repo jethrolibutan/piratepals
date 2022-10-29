@@ -1,0 +1,52 @@
+* {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
+
+a {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navBar {
+  background-color: white;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  gap: 2rem;
+  padding: 10 0 10 0 rem;
+
+  width: auto;
+  height: 60px;
+  padding-inline: 2rem;
+}
+
+.navbar-1 {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4rem;
+}
+
+.navbar-2 {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4rem;
+}
