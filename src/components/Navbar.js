@@ -10,17 +10,17 @@ function Navbar() {
           Pirate Pals
         </a>
 
-        <a href="" className="about-section">
-          Our Mission
+        <a href="/meet-our-team" className="">
+          Meet Our Team
         </a>
       </div>
 
       <div className="navbar-2">
-        <a href="/" className="contact-us">
+        <a href="/contact-us" className="">
           Contact Us
         </a>
 
-        <a href="/" className="get-involved">
+        <a href="/get-involved" className="">
           Get Involved
         </a>
       </div>

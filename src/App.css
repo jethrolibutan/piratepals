@@ -1,3 +1,62 @@
 * {
   background-color: rgb(255, 255, 255);
 }
+
+.contact-us-component {
+  margin: 0rem 1rem 1rem 1rem;
+  align-items: center;
+  justify-content: center;
+
+  height: 500px;
+  width: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-image: url(/public/images/contact-us.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.contact-us {
+  background-color: transparent;
+  color: white;
+  font-size: 3em;
+}
+.contact-us-email {
+  background-color: transparent;
+  color: white;
+  font-size: 2em;
+}
+.contact-us-phone {
+  background-color: transparent;
+  color: white;
+  font-size: 2em;
+}
+
+.contact-us-message {
+  background-color: transparent;
+  color: white;
+  font-size: 2em;
+}
+
+.contact-us-faq-component {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.faq {
+  margin-bottom: 10px;
+}
+
+.question {
+  margin-bottom: 10px;
+}
+
+.answer {
+  margin-bottom: 10px;
+}
