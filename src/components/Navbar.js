@@ -11,7 +11,7 @@ function Navbar() {
         </a>
 
         <a href="/meet-our-team" className="">
-          Meet Our Team
+          Meet The Board
         </a>
       </div>
 
