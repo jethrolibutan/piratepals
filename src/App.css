@@ -2,6 +2,12 @@
   background-color: rgb(255, 255, 255);
 }
 
+/* Main page */
+
+.mission_statement_component {
+  padding: 10px 10px 10px;
+}
+
 /* Meet our Team Page */
 
 .exec-board-container {
@@ -90,7 +96,8 @@
 /* Contact Us Page */
 
 .contact-us-component {
-  margin: 0rem 1rem 1rem 1rem;
+  padding-bottom: 20px;
+
   align-items: center;
   justify-content: center;
 
@@ -137,6 +144,7 @@
 }
 
 .faq {
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 

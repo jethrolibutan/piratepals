@@ -2,10 +2,6 @@
   font-family: "Poppins", sans-serif;
 }
 
-.main_component {
-  margin: 0px 10px 10px 10px;
-}
-
 .welcome_component {
   width: 100%;
   margin: auto;
@@ -47,12 +43,13 @@
 
 .what_piratePals {
   flex-grow: 1;
-
   flex-basis: 200px;
 
   display: flex;
   align-items: center;
   justify-content: center;
+
+  font-size: 35px;
 
   border-radius: 100px;
   border-color: 10px grey;
@@ -76,7 +73,8 @@
 }
 
 .mission_statement_component {
-  height: 50vh;
+  height: 40vh;
+  padding-top: 40px;
 
   display: flex;
   flex-direction: column;
@@ -90,6 +88,7 @@
 
 .our_mission {
   padding-top: 55px;
+  font-weight: bolder;
 
   flex-basis: 10px;
   background-color: transparent;
@@ -99,7 +98,7 @@
 }
 
 .mission_statement {
-  padding-top: 10px;
+  padding-top: 60px;
   background-color: transparent;
 
   height: 75vh;

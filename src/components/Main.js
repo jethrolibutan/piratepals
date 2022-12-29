@@ -25,6 +25,7 @@ function Main() {
         <h1 id="our-mission" className="our_mission">
           Our Mission
         </h1>
+
         <h1 className="mission_statement">
           To provide trusting, supportive relationships with pediatric patients
           and their families while providing educational opportunities for its'
